@@ -1,6 +1,8 @@
 #!git/bash
-if ("a=12")
-then
-("b=13")
+echo
+if"
+$a=10"
+"b=10"
 'done'
-'a-b'
+"$a+$b"
+
